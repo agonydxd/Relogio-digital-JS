@@ -34,6 +34,7 @@
     text-align: center;
     justify-content: center;
     border-radius: 7px;   
+    letter-spacing: 5px;
  }
 
 
@@ -48,11 +49,12 @@
  
  /* COMENTARIOS!!!!
  
- (justify-content: center
+(justify-content: center
 display: flex; 
 align-items: center;)
-esses tres serve para alinhar o objeto ensse caso a div,o display flex tem grande importancia poos nao se limita apenas ao formato box de caixa
-align-items: center; = o espaço entre as letras
+esses tres serve para alinhar o objeto ensse caso a div.
+o display flex tem grande importancia nesse caso pois não se limita apenas ao formato box de caixa
+letter-spacing: 5px; = o espaço entre as letras
 flex-direction: column; = tyransforma em colunas
 justify-content: space-around; = ele cria o espaço entre as divs com background preto
 

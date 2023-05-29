@@ -25,6 +25,7 @@ const relogio = setInterval(function time(){
 
 /*
 
-O setInterval() serve para executar uma função ou instrução várias vezes em um determinado intervalo de tempo. A sua sintaxe é: setInterval(funcao, tempo); Isto significa que a função "funcao" será executada assim cada vez que se atingir o determinado tempo.
+O setInterval() serve para executar uma função ou instrução várias vezes em um determinado intervalo de tempo. A sua sintaxe é: setInterval(funcao, tempo)
+ Isto significa que a função "funcao" será executada assim cada vez que se atingir o determinado tempo.
 
 */
